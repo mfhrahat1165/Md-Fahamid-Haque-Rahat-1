@@ -45,7 +45,7 @@
             <input type="radio" name="@" id="Female" value="Female"> Female
         </p>
       <button type="submit"></button>
-      </froma1
+    </from>
 </body>
 </html>
 .l{
