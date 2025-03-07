@@ -8,7 +8,7 @@
     <link rel="icon" href="favicon.jpg">
     <link rel="stylesheet" href="styel.css">
 </head>
-<body id="l">
+<body>
     <from class="li">
         <h1>
             HI <br> FILL THIS <div>PLEASE</div> 
