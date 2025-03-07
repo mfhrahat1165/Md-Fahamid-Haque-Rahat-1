@@ -1,1 +1,75 @@
 # Md-Fahamid-Haque-Rahat-1
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>69</title>
+    <link rel="icon" href="favicon.jpg">
+    <link rel="stylesheet" href="styel.css">
+</head>
+<body id="l">
+    <from class="li">
+        <h1>
+            HI <br> FILL THIS <div>PLEASE</div> 
+        </h1>
+        <H5>
+            WELCOME 
+        </H5>
+        <p>
+            Name : 
+            <input type="text" name="" id="" placeholder="Name" class="a1">
+        </p>
+        <P>
+            Mobile No :
+            <input type="phone" name="" id="" placeholder="01xxxxxxxxx" maxlength="11" class="a2">
+        </P>
+        <label for="Email Adress">Email Adress</label>
+        <input type="email" name="" id="" placeholder="_____@gmail.com"> <br>
+        <label for="" class="a3">Blood Group</label>
+        <select name="" id="">
+            <option value="">A+</option>
+            <option value="">A-</option>
+            <option value="">B+</option>
+            <option value="">B-</option>
+            <option value="">AB+</option>
+            <option value="">AB-</option>
+            <option value="">O+</option>
+            <option value="">O-</option> 
+        </select><br>
+        <label for="" class="a4">Gender</label>
+        <p>
+            <input type="radio" name="@" id="Male" value="Male"> Male
+        </p>
+        <p>
+            <input type="radio" name="@" id="Female" value="Female"> Female
+        </p>
+      <button type="submit"></button>
+      </froma1
+</body>
+</html>
+.l{
+    background-color: rgb(0, 56, 240);
+}
+.li{
+  border: 4px;
+  padding: 10px;
+}
+h1{
+    color: blue;
+}
+h5{
+    color: chartreuse;
+}
+.a1{
+    background-color: rgba(0, 255, 149, 0.678);
+}
+.a2{
+    color: red;
+}
+.a3{
+    background-color: rgba(156, 5, 5, 0.445);
+}
+.a4{
+    background-color: rgba(245, 7, 7, 0.87);
+}
